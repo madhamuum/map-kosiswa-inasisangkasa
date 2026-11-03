@@ -1,0 +1,7 @@
+.env
+.env.*
+!.env.example
+KOD_PERIBADI_ADMIN.csv
+setup.sql
+node_modules/
+.vercel/

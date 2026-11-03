@@ -1,0 +1,1 @@
+{"name":"portal-tandatangan-angkasa","version":"1.0.0","private":true,"scripts":{"start":"vercel dev"},"dependencies":{"@supabase/supabase-js":"^2.49.0","pdf-lib":"^1.17.1"},"devDependencies":{"vercel":"^48.0.0"}}

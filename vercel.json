@@ -1,0 +1,1 @@
+{"version":2,"functions":{"api/index.js":{"includeFiles":"source.pdf"}},"rewrites":[{"source":"/api/:action","destination":"/api/index?action=:action"},{"source":"/","destination":"/index.html"}]}
